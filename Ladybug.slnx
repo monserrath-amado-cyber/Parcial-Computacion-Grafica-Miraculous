@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ladybug.vcxproj" Id="32d9d38a-8b20-484f-960f-2a5e3664c2a2" />
+</Solution>

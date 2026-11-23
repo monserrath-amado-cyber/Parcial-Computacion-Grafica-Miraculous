@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lady Bug - Miraculous
+* source:	https://sketchfab.com/3d-models/lady-bug-miraculous-209a8487e62549f288f24b4c5743c2f4
+* author:	man (https://sketchfab.com/olegatorltd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lady Bug - Miraculous" (https://sketchfab.com/3d-models/lady-bug-miraculous-209a8487e62549f288f24b4c5743c2f4) by man (https://sketchfab.com/olegatorltd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

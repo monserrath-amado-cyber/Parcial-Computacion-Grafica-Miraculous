@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chat Noir - Miraculous
+* source:	https://sketchfab.com/3d-models/chat-noir-miraculous-385da1ff4d914e16b0468db1e95685ed
+* author:	man (https://sketchfab.com/olegatorltd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chat Noir - Miraculous" (https://sketchfab.com/3d-models/chat-noir-miraculous-385da1ff4d914e16b0468db1e95685ed) by man (https://sketchfab.com/olegatorltd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
