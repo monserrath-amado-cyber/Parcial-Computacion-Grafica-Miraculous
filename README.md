@@ -80,4 +80,6 @@ Parcial-Computacion-Grafica-Miraculous/
 
 ## Autora
 
-* **Monserrath Amado** 
+* **Monserrath Amado**
+* Video explicativo: https://www.youtube.com/watch?v=r2VkTe6phfk*
+   
